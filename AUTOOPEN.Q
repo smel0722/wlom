@@ -60,6 +60,7 @@ Sub _init
 End Sub
 Sub _RunWL
     RunApp "C:\WL\nwlom_english\wl.exe"
+		//game path
 End Sub
 
 
