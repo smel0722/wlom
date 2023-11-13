@@ -9,7 +9,7 @@ StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
 MacroID=714c026f-7085-4cd5-b317-a1a14367d195
-Description=自動多開視窗定位
+Description=AUTOOPEN
 Enable=1
 AutoRun=0
 [Repeat]
